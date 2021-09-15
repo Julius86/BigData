@@ -1,2 +1,2 @@
 # BigData
-Big Data course projects and practic.
+Big Data course projects and practices.
