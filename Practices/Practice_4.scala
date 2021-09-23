@@ -15,7 +15,7 @@ def fiboA1(n: Int): Int = {
     }
 
 }
-fiboA1(6)
+fiboA1(8)
 
 //Algoritmo 2
 
@@ -91,4 +91,4 @@ def fiboA5(n: Int): Int = {
     }
 }
 
-fiboA5(21)
+fiboA5(8)
